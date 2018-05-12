@@ -1,0 +1,40 @@
+_repo: Nye-and-Riley-s-Wit-and-Humor--Poems-and-Yarns-_30131
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30131-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Nye, Bill
+    aliases:
+    - Nye, Edgar Wilson
+    - Nye, Edgar W. (Edgar Wilson)
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '2704'
+    url: http://www.gutenberg.org/2009/agents/2704
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
+  - agent_name: Riley, James Whitcomb
+    aliases:
+    - Johnson, Benj. F. of Boone
+    - Johnson, B. F.
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '356'
+    url: http://www.gutenberg.org/2009/agents/356
+    wikipedia: http://en.wikipedia.org/wiki/James_Whitcomb_Riley
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2009-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PS'
+title: Nye and Riley's Wit and Humor (Poems and Yarns)
+url: http://www.gutenberg.org/ebooks/30131
