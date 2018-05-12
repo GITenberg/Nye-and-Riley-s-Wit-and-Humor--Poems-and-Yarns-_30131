@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/356
     wikipedia: http://en.wikipedia.org/wiki/James_Whitcomb_Riley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30131#Nye-and-Riley-s-Wit-and-Humor--Poems-and-Yarns-
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2009-09-29'
 gutenberg_type: Text
